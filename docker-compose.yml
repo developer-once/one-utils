@@ -1,0 +1,6 @@
+version: '3'
+services:
+  utils-docs:
+    image: registry.cn-hangzhou.aliyuncs.com/xux_d_one/utils:latest
+    ports:
+      - "8000:8000"
