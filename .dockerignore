@@ -2,7 +2,6 @@
 .history
 .vscode
 .github
-node_modules
 npm-debug.log
 config/*.local.ts
 config/*.local.js
